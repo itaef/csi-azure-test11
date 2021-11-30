@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 import azure.mgmt.resource
 import automationassets
 from azure_automation_utility import get_automation_runas_credential
